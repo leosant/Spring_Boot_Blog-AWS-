@@ -13,10 +13,11 @@
 	* Spring Data JPA para projeção do banco dados;
 * Maven para gerenciar as dependências;
 * Bootstrap para construção do layout do HTML;
-* O Thymeleaf para renderizar minhas páginas HTML;
+* Thymeleaf para renderizar minhas páginas HTML;
 * Biblioteca Jquery para costumizar a tag de texto;
 * Banco de dados PostegreSQL para persistir os dados;
-* E o AWS Elastic Beanstalk para um deploy simplificado e usando o AWS RDS para o banco de dados
+* AWS Elastic Beanstalk para um deploy simplificado
+* AWS RDS para o banco de dados
   ### Link
   ![codeblog.com](http://codeblog-spring-dev.us-west-2.elasticbeanstalk.com/posts)
   	<br>Caso não consiga visualizar, provavelmente eu parei ou pausei o site na AWS.
