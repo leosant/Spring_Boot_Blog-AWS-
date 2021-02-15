@@ -19,5 +19,5 @@
 * AWS Elastic Beanstalk para um deploy simplificado
 * AWS RDS para o banco de dados
   ### Link
-  ![codeblog.com](http://codeblog-spring-dev.us-west-2.elasticbeanstalk.com/posts)
+  [codeblog.com](http://codeblog-spring-dev.us-west-2.elasticbeanstalk.com/posts)
   	<br>Caso não consiga visualizar, provavelmente eu parei ou pausei o site na AWS.
